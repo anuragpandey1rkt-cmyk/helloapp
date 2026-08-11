@@ -29,3 +29,18 @@ helloapp/
 ├── Java_Lab_Practices_Anurag_Pandey.docx
 │
 └── readme.md
+
+
+🚀 Getting Started
+Prerequisites
+
+Make sure you have the following installed:
+
+Java Development Kit (JDK)
+A terminal or command prompt
+A code editor or IDE such as IntelliJ IDEA, Eclipse, or VS Code
+
+You can verify your Java installation with:
+
+java -version
+javac -version
