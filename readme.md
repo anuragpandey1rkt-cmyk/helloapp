@@ -13,3 +13,19 @@ Reading a name from command-line arguments
 Handling multiple names
 Working with strings and arrays
 Practicing Java programming exercises
+
+📂 Repository Structure
+helloapp/
+│
+├── HelloAppUc1.java
+├── HelloAppUc2.java
+├── Uc7.java
+├── uc3.java
+├── uc4.java
+├── uc5.java
+├── uc6.java
+│
+├── Java_Arrays_Lab_Submission_Anurag_Pandey.docx
+├── Java_Lab_Practices_Anurag_Pandey.docx
+│
+└── readme.md
