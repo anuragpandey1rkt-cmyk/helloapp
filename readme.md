@@ -33,6 +33,7 @@ helloapp/
 └── readme.md
 ```
 
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -49,6 +50,7 @@ You can verify your Java installation with:
 java -version
 javac -version
 ```
+
 
 ## 📥 Clone the Repository
 
