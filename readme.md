@@ -175,6 +175,7 @@ git push origin feature/new-example
 
 6. Open a Pull Request
 
+
 ## 📄 License
 
 This project is intended for educational and practice purposes.
